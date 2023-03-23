@@ -1,5 +1,5 @@
 # BWIS
-Bitcoin Web Integration Standard
+Bitcoin Web Integration Standard / with help from GPT4
 
 ## TLDR:
 Creating a web integration standard for Bitcoin involves defining a set of guidelines, APIs, and best practices that developers can use to consistently and securely integrate Bitcoin-related functionality into websites and web applications. This proposed standard, which we can call the "Bitcoin Web Integration Standard (BWIS)," will cover the following components:
